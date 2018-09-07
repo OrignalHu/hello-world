@@ -8,8 +8,8 @@ mirror_2!!!!
 在hello world中更新
 在mirror world中更新;
 
-<<<<<<< Updated upstream
+
 mirror world after stash
-=======
+
 hello mirror before stash
->>>>>>> Stashed changes
+
